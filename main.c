@@ -1,8 +1,3 @@
-#include <SDL3/SDL_events.h>
-#include <SDL3/SDL_init.h>
-#include <SDL3/SDL_pixels.h>
-#include <SDL3/SDL_render.h>
-#include <SDL3/SDL_scancode.h>
 #define SDL_MAIN_USE_CALLBACKS
 #include <SDL3/SDL.h>
 #include <SDL3/SDL_main.h>
